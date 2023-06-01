@@ -1,4 +1,16 @@
 # UberDataAnalysis
+
+PROBLEM STATEMENT:
+
+We took a data set which consists of START_DATE-The date on which the ride is booked,
+END_DATE- The date on which the ride ended,
+CATEGORY-Category of the passengers i.e. Buisiness or Personal,
+START-The location at which the ride started,
+STOP-THe location at which the ride stopped,
+MILES-Miles covered in the journey,
+PURPOSE-Purpose of the journey.
+WE analyzed the above data and concluded the details below.
+
 CONCLUSION:
 
 1. majory trips are for business category
